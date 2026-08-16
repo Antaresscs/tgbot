@@ -2,6 +2,7 @@
   {
     "id": "complex_1",
     "type": "complex",
+    "password":"СПИНА2024",   
     "title": "Комплекс для спины",
     "description": "Выполнять утром и вечером.",
     "steps": [
